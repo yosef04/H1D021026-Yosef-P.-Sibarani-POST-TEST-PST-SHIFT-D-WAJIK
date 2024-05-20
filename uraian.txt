@@ -1,0 +1,9 @@
+1. - Motor servo akan berputar sesuai dengan perintah yang diterima dari kontroler dan akan berhenti saat posisi rotor sesuai dengan
+     perintah yang diterima
+   - LCD akan menampilkan hal-hal yang diperintahkan dari kontroler.
+
+2. - Lift
+   - Handphone
+   - Laptop
+   - Pengukur suhu elektronik
+   - Kamera
