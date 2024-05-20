@@ -1,9 +1,19 @@
-1. - Motor servo akan berputar sesuai dengan perintah yang diterima dari kontroler dan akan berhenti saat posisi rotor sesuai dengan
-     perintah yang diterima
-   - LCD akan menampilkan hal-hal yang diperintahkan dari kontroler.
+1. Motor servo akan berputar sesuai dengan perintah yang diterima dari kontroler dan akan berhenti saat posisi rotor sesuai dengan
+   perintah yang diterima
 
-2. - Lift
+2. LCD akan menampilkan hal-hal yang diperintahkan dari kontroler.
+
+3. - Lift
    - Handphone
    - Laptop
    - Pengukur suhu elektronik
    - Kamera
+
+4. Membangun rangkaian kedipan LED dasar menggunakan mikrokontroler Arduino.
+   Komponen yang dibutuhkan:
+   1. Board Arduino (misalnya Arduino Uno)
+   2. Kabel USB untuk menghubungkan Arduino ke komputer Anda
+   3. Breadboard
+   4. LED
+   5. Resistor (nilai umum 220 ohm)
+   6. Kabel jumper
